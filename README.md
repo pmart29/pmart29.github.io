@@ -1,14 +1,9 @@
-# Minimal Theme
+# PMart29 GitHub Pages
 
-[Demo the Theme](https://orderedlist.com/minimal/)
+Bienvenue sur le dépôt du site personnel [PMart29](https://pmart29.github.io/).  
+Ce site est construit en HTML et CSS avec une mise en page simple et épurée, pensée pour être rapide et facile à maintenir.
 
-This is the raw HTML and styles that are used for the *minimal* theme on [GitHub Pages](http://pages.github.com/).
+## Licence
 
-Syntax highlighting is provided on GitHub Pages by [Pygments](http://pygments.org).
-
-# License
-
-This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
-
-
-
+Ce projet est sous licence [Creative Commons Attribution-ShareAlike 3.0 Unported](http://creativecommons.org/licenses/by-sa/3.0/).  
+Vous êtes libre de partager et adapter ce site tant que vous créditez l’auteur et partagez les modifications sous la même licence.
